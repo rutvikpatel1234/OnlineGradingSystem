@@ -1,0 +1,6 @@
+C:\Users\rutvi\source\repos\gradingsystem\Utilities\bin\Debug\Utilities.dll
+C:\Users\rutvi\source\repos\gradingsystem\Utilities\bin\Debug\Utilities.pdb
+C:\Users\rutvi\source\repos\gradingsystem\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\Users\rutvi\source\repos\gradingsystem\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\rutvi\source\repos\gradingsystem\Utilities\obj\Debug\Utilities.dll
+C:\Users\rutvi\source\repos\gradingsystem\Utilities\obj\Debug\Utilities.pdb

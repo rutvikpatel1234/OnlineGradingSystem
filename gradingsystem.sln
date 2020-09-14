@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gradingsystem", "gradingsystem\gradingsystem.csproj", "{7167EEFA-6BB1-47B5-8E1B-7A80F1E30818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{6C581423-6E5E-4EA1-BD24-1FB5C66DEF76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7167EEFA-6BB1-47B5-8E1B-7A80F1E30818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7167EEFA-6BB1-47B5-8E1B-7A80F1E30818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7167EEFA-6BB1-47B5-8E1B-7A80F1E30818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7167EEFA-6BB1-47B5-8E1B-7A80F1E30818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C581423-6E5E-4EA1-BD24-1FB5C66DEF76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C581423-6E5E-4EA1-BD24-1FB5C66DEF76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C581423-6E5E-4EA1-BD24-1FB5C66DEF76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C581423-6E5E-4EA1-BD24-1FB5C66DEF76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF499BCD-26B9-4D01-9201-B4A8FBD674E9}
+	EndGlobalSection
+EndGlobal
